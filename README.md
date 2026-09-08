@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 # Hi there, I'm Mohammad Ali Hasan! 👋
 
 ### Aspiring Data Scientist | IPE Undergraduate at BUET
 
-Welcome to my GitHub! I'm an engineering student with a strong passion for data science, low-level programming, and designing efficient solutions. I love bridging the gap between physical engineering and software, from analyzing structural materials to writing optimized code.
+Welcome to my GitHub! I'm an engineering student with a strong passion for data science and designing efficient solutions. I love bridging the gap between physical engineering and software, from analyzing structural materials to writing optimized code.
 
 ## 🚀 About Me
 
@@ -61,3 +61,5 @@ Welcome to my GitHub! I'm an engineering student with a strong passion for data 
 
 ---
 *Always eager to collaborate on data-driven solutions, UI design, or engineering challenges!*
+
+-->
